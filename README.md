@@ -1,6 +1,6 @@
 # Quizzler ❓
 
-## A Quiz Game which asks 16 Questions...
+## A Quiz Game which asks 16 Questions and provide feedback on the bottom.
 
 ![Screenshot1](images/1.png)
 
